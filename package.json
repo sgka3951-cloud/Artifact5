@@ -1,0 +1,16 @@
+{
+  "name": "artifact5",
+  "version": "1.0.0",
+  "description": "Tutorial Node.js server using Express; serves 'Hello world' at / and 'Good evening' at /good-evening",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "license": "MIT"
+}
